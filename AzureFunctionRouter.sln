@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionRouter", "AzureFunctionRouter.csproj", "{EE684549-8D60-40F1-9DD1-D28E9FA5EABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE684549-8D60-40F1-9DD1-D28E9FA5EABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE684549-8D60-40F1-9DD1-D28E9FA5EABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE684549-8D60-40F1-9DD1-D28E9FA5EABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE684549-8D60-40F1-9DD1-D28E9FA5EABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04708DE-B506-4A52-900F-3953C06E9AF7}
+	EndGlobalSection
+EndGlobal
